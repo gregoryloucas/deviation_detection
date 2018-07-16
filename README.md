@@ -1,0 +1,1 @@
+This repository is an example of how to do statistical based alerting with Logz.io. Right now it is just in basic Python script format, soon to be converted to Docker/Lambda/etc. The example value used is CPU, but could be any numeric value within Logz.io.
